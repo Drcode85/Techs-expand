@@ -20,4 +20,5 @@
 		"uniques": ["Cannot be hurried", "Provides [3] [Antimatter]"]
 		"requiredBuildingInAllCities": "Fusion Reactor",
 		"requiredTech": "Particle Fusion"
+	}
 ]
