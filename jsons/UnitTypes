@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Drone",
+        "movementType": "Air",
+       "uniques": ["Aircraft","[+7] Sight"]
+      }
+]
