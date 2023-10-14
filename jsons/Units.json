@@ -1,19 +1,5 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	},
+	
 	{
 		"name": "Drone",
 		"unitType": "Drone",
@@ -24,7 +10,7 @@
 		"cost": 250,
 		"requiredTech": "Autonomous",
 		"requiredResource": "Aluminum",
-		"uniques": ["[-100]% maintenance costs", "Can see over obstacles"],
+		"uniques": ["[-100]% maintenance costs"],
 		"attackSound": "machinegun"
 	}
 ]
