@@ -13,5 +13,18 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Drone",
+		"unitType": "Air",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 50,
+		"range": 12,
+		"cost": 250,
+		"requiredTech": "Automu",
+		"requiredResource": "Aluminum",
+		"uniques": ["[-100]% maintenance costs", "Can see over obstacles"],
+		"attackSound": "machinegun"
+	},
 ]
