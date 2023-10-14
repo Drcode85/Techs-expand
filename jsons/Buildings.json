@@ -7,7 +7,7 @@
 		"production": 13,
 		"science": 16,
 		"maintenance": 96,
-		"uniques": ["Cannot be hurried", ]
+		"uniques": ["Cannot be hurried", "Provides [3] [Antimatter]"]
 		"requiredBuildingInAllCities": "Fusion Reactor",
 		"requiredTech": "Particle Fusion"
 	},
