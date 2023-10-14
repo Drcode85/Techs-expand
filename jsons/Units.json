@@ -22,9 +22,9 @@
 		"rangedStrength": 50,
 		"range": 12,
 		"cost": 250,
-		"requiredTech": "Automu",
+		"requiredTech": "Autonomous",
 		"requiredResource": "Aluminum",
 		"uniques": ["[-100]% maintenance costs", "Can see over obstacles"],
 		"attackSound": "machinegun"
-	},
+	}
 ]
