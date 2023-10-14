@@ -2,6 +2,6 @@
     {
         "name": "Drone",
         "movementType": "Air",
-       "uniques": ["Aircraft","[+7] Sight"]
+       "uniques": ["Aircraft", "Can see over obstacles", "[+7] Sight"]
       }
 ]
