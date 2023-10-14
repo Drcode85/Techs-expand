@@ -1,7 +1,8 @@
-{
+[
+        {
 		"name": "Antimatter",
 		"resourceType": "Strategic",
 		"science": 3,
 		"revealedBy": "Particle Physics",
-	
 	}
+]
