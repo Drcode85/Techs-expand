@@ -6,19 +6,18 @@
 		"cost": 1000,
 		"production": 13,
 		"science": 16,
-		"maintenance": 96,
+		"maintenance": 100,
 		"uniques": ["Cannot be hurried", "Provides [3] [Antimatter]"]
 		"requiredBuildingInAllCities": "Fusion Reactor",
 		"requiredTech": "Particle Fusion"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "Particle Accelerator",
+		"cost": 1000,
+		"production": 13,
+		"science": 16,
+		"maintenance": 100,
+		"uniques": ["Cannot be hurried", "Provides [3] [Antimatter]"]
+		"requiredBuildingInAllCities": "Fusion Reactor",
+		"requiredTech": "Particle Fusion"
 ]
