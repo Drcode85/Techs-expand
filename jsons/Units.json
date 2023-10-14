@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Drone",
-		"unitType": "Air",
+		"unitType": "Drone",
 		"movement": 2,
 		"strength": 40,
 		"rangedStrength": 50,
