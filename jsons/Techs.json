@@ -654,7 +654,7 @@
 				"quote": "'There is no alternative to digital transformation. Visionary companies will carve out new strategic options for themselves — those that don’t adapt, will fail.' - Jeff Bezos"
 			},
 			{
-				"name": "Fusion Reactor",
+				"name": "Particle Fusion",
 				"row": 3,
 				"prerequisites": ["Particle Physics", "Nuclear Fusion"],
 				"quote": "'Would like nuclear fusion to become a practical power source. It would provide an inexhaustible supply of energy, without pollution or global warming.' - Stephen Hawking"	
